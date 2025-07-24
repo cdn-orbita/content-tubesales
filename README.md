@@ -42,10 +42,10 @@ git push
 # 🔭 Acessar imagens do repositório
 ### 🔗 Link rápido:
 ```
-https://cdn.jsdelivr.net/gh/cdn-orbita/content-viviane/nome-da-imagem.ext
+https://cdn.jsdelivr.net/gh/cdn-orbita/content-tubesales/nome-do-audio.ext
 ```
 
 ### 🔗 Modelo do link para acessar a imagem do repositório:
 ```
-https://cdn.jsdelivr.net/gh/username/repositorio/nome-da-imagem.ext
+https://cdn.jsdelivr.net/gh/username/repositorio/nome-do-audio.ext
 ```
