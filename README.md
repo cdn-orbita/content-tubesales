@@ -39,6 +39,19 @@ git commit -m "mensagem teste de commit"
 git push
 ```
 
+### </> Atualização: se o GitHub estiver usando a branch master ao invés da main:
+Para ver qual é o nome da sua branch:
+```
+git branch
+```
+
+Caso sua branch esteja na master ao invés da main (note que o repositório atual está na branch main e não master!):
+- Defina o nome da branch atual de master para main, e dê push para a branch main.
+```
+git branch -m master main
+git push -u origin main
+```
+
 # 🔭 Acessar imagens do repositório
 ### 🔗 Link rápido:
 ```
